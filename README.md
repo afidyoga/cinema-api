@@ -1,9 +1,5 @@
 # Cinema API — Mitra Kasih Perkasa Backend Test
 
-**Nama Lengkap:** Mohamad Afid Yoga Pratama Putra  
-**Email:** afidyoga45dr@gmail.com  
-**Phone:** 081233721538
-
 ---
 
 ## Isi Repository
