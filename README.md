@@ -32,7 +32,7 @@
 ---
 
 ## System Design
-<img width="388" height="1522" alt="System Design" src="https://github.com/user-attachments/assets/df7eaa20-4c4c-43af-ae6f-acf3a80e7c95" />
+<img width="1523" height="560" alt="System Design" src="https://github.com/user-attachments/assets/be831754-052c-4742-94ba-c7572d835074" />
 
 ---
 
