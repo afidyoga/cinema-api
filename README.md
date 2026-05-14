@@ -34,10 +34,12 @@
 ## System Design
 <img width="388" height="1522" alt="System Design" src="https://github.com/user-attachments/assets/df7eaa20-4c4c-43af-ae6f-acf3a80e7c95" />
 
+---
 
  ## Database Design
  <img width="2880" height="3888" alt="cinema_erd" src="https://github.com/user-attachments/assets/e9812615-e327-415c-bebf-fe86dd0fc058" />
 
+---
 
 ## Setup & Menjalankan
 
